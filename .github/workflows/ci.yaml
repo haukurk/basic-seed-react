@@ -15,4 +15,3 @@ jobs:
           heroku_api_key: ${{secrets.HEROKU_API_KEY_HAUKUR}}
           heroku_app_name: "basic-seed-react"
           heroku_email: "haukur@hauxi.is"
-          buildpack: ""
